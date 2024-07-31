@@ -1,6 +1,6 @@
 # Grocery Store Application
 
-![Grocery Store](./Images/Main.png)
+![Grocery Store](./Images/Main.jpg)
 
 ## Description
 This is a web-based grocery store application developed using Django. It allows users to browse, search, and purchase grocery items online.
